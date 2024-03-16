@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Hotel Booking App]
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **singhary449@gmail.com**
 
